@@ -139,7 +139,7 @@ public class OrdInsercion {
         }*/
         
         System.out.println("El tamano del arreglo es: " + arreglo.length);
-        System.out.println("El numero de cilos por inserccion son: " +contadorCiclosIn);
+        System.out.println("El numero de ciclos por inserccion son: " +contadorCiclosIn);
         System.out.println("El numero de pasos por inserccion son: " +contadorPasosIn + "\n");
     
     }
@@ -215,7 +215,7 @@ public class OrdInsercion {
             mayor = der;
             contadorPasosHeap+=1;
         }
-        contadorPasosHeap+=1;
+        contadorPasosHeap+=2;
         // Si el mayor no es la raíz
         if (mayor != i) {
             int intercambiar = aprueba[i];
