@@ -1,0 +1,23 @@
+[33mcommit 9567aff7f400be574032e246f7dbeceb00eebaae[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: DanielOrlandoVi <dovillescasm@udistrital.edu.co>
+Date:   Mon Feb 19 15:21:15 2024 -0500
+
+    Se cambia mensaje de salida al ejecutar programa
+
+[33mcommit 57c37afdaf3cbbe31d82a2cef352d0d3f9ce61bb[m
+Author: DanielOrlandoVi <dovillescasm@udistrital.edu.co>
+Date:   Mon Feb 19 15:17:39 2024 -0500
+
+    Se añade ordenamiento de monticulo
+
+[33mcommit 71da12d91e7d3cb187d45505426535713aeb09bf[m
+Author: DanielOrlandoVi <dovillescasm@udistrital.edu.co>
+Date:   Wed Feb 14 11:06:35 2024 -0500
+
+    Se añade lectura de datos y logica de insercion en un metodo
+
+[33mcommit 10a49d1336df5725f4e5fa996f8dd823c04e28ed[m
+Author: DanielOrlandoVi <dovillescasm@udistrital.edu.co>
+Date:   Wed Feb 14 09:59:29 2024 -0500
+
+    Init repositorio
