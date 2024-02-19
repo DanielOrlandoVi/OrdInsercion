@@ -139,8 +139,8 @@ public class OrdInsercion {
         }*/
         
         System.out.println("El tamano del arreglo es: " + arreglo.length);
-        System.out.println("los cilos por inserccion son: " +contadorCiclosIn);
-        System.out.println("los pasos por inserccion son: " +contadorPasosIn + "\n");
+        System.out.println("El numero de cilos por inserccion son: " +contadorCiclosIn);
+        System.out.println("El numero de pasos por inserccion son: " +contadorPasosIn + "\n");
     
     }
     
